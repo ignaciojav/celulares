@@ -17,22 +17,7 @@
         {"id":16, "nombre":"IPHONE 13 PRO 128GB BLUE", "imagen":"multimedia/imagenes/iphone-13-pro-blue.png", "precio":1260,"stock":5
         },
         {"id":17, "nombre":"IPHONE 13 PRO 256GB BLUE", "imagen":"multimedia/imagenes/iphone-13-pro-blue.png", "precio":1350,"stock":5},
-        {"id":18, "nombre":"IPHONE 13 PRO 512GB BLUE", "imagen":"multimedia/imagenes/iphone-13-pro-blue.png","precio":1600,"stock":5},
-        {"id":19, "nombre":"IPHONE 13 PRO MAX 128GB BLUE", "imagen":"multimedia/imagenes/iphone-13-pro-blue.png", "precio": 1380,"stock":5},
-        {"id":20, "nombre":"IPHONE 13 PRO MAX 256GB BLUE", "imagen":"multimedia/imagenes/iphone-13-pro-blue.png", "precio":1480,"stock":5},
-        {"id":21, "nombre":"IPHONE 13 PRO MAX 512GB BLUE", "imagen":"multimedia/imagenes/iphone-13-pro-blue.png", "precio":1700,"stock":5},
-        {"id":22, "nombre":"IPHONE SE 2022 64GB STARLIGTH", "imagen":"multimedia/imagenes/iphone-se-starlight.png", "precio":590,"stock":5},
-        {"id":23, "nombre":"XIAOMI REDMI 9A 2/32GB", "imagen":"multimedia/imagenes/xiaomi-9a.png", "precio":180,"stock":5},
-        {"id":24, "nombre":"XIAOMI REDMI 9C 2/32GB", "imagen":"multimedia/imagenes/xiaomi-9c.jfif", "precio":200,"stock":5},
-        {"id":25, "nombre":"XIAOMI NOTE 11 4/64GB", "imagen":"multimedia/imagenes/xiaomi-note11s.png", "precio":285,"stock":5}, 
-        {"id":26, "nombre":"XIAOMI POCOPHONE X3 PRO 6/128GB", "imagen":"multimedia/imagenes/xiaomi-pocophonex3.png", "precio":340,"stock":5},
-        {"id":19, "nombre":"IPHONE 13 PRO MAX 128GB BLUE", "imagen":"multimedia/imagenes/iphone-13-pro-blue.png", "precio": 1380,"stock":5},
-        {"id":20, "nombre":"IPHONE 13 PRO MAX 256GB BLUE", "imagen":"multimedia/imagenes/iphone-13-pro-blue.png", "precio":1480,"stock":5},
-        {"id":21, "nombre":"IPHONE 13 PRO MAX 512GB BLUE", "imagen":"multimedia/imagenes/iphone-13-pro-blue.png", "precio":1700,"stock":5},
-        {"id":22, "nombre":"IPHONE SE 2022 64GB STARLIGTH", "imagen":"multimedia/imagenes/iphone-se-starlight.png", "precio":590,"stock":5},
-        {"id":23, "nombre":"XIAOMI REDMI 9A 2/32GB", "imagen":"multimedia/imagenes/xiaomi-9a.png", "precio":180,"stock":5},
-        {"id":24, "nombre":"XIAOMI REDMI 9C 2/32GB", "imagen":"multimedia/imagenes/xiaomi-9c.jfif", "precio":200,"stock":5},
-        {"id":25, "nombre":"XIAOMI NOTE 11 4/64GB", "imagen":"multimedia/imagenes/xiaomi-note11s.png", "precio":285,"stock":5}, 
-        {"id":26, "nombre":"XIAOMI POCOPHONE X3 PRO 6/128GB", "imagen":"multimedia/imagenes/xiaomi-pocophonex3.png", "precio":340,"stock":5}
+        {"id":18, "nombre":"IPHONE 13 PRO 512GB BLUE", "imagen":"multimedia/imagenes/iphone-13-pro-blue.png","precio":1600,"stock":5}
+        
     ]
 }
